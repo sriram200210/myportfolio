@@ -1,2 +1,2 @@
 # myportfolio
-This repository contains all file of my portfolio website
+This repository contains all files of my portfolio website
